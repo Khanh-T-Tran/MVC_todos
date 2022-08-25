@@ -23,5 +23,7 @@ make sure the name and password are matched with eachother
 #### Create a todos.handlebars inside views folder
 #### Setup a get request inside homepageController to show todos.handlebars and main.handlebars on browser through localport
 #### Create a todos list and test on browser
-
+#### Create index.js and User.js inside models
+#### Setup format for User.js and link for index.js
+#### Create seeds folder so we can insert database without using post routes
 

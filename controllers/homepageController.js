@@ -4,10 +4,7 @@ const todoList = [
     'run a 5k',
     'do the laundry',
     'playgame',
-] 
-
-
-
+];
 
 router.get('/', (req, res) => {
     res.render('todos', {
@@ -18,5 +15,6 @@ router.get('/', (req, res) => {
     })
 })
 
+// HTML ROUTES + API POST DELETE, PUT/PATCH routes
 
 module.exports = router;
