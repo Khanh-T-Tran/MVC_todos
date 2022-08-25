@@ -26,4 +26,7 @@ make sure the name and password are matched with eachother
 #### Create index.js and User.js inside models
 #### Setup format for User.js and link for index.js
 #### Create seeds folder so we can insert database without using post routes
+#### create and setup index.js and users.js inside seeds folder
+#### create db folder and schema.sql inside this folder to create a handlebars_MVC_todos_db table
+
 
